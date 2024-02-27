@@ -1,4 +1,4 @@
- 
+  
 
 <h1>Hi there 👋,  I 'm Juel Rahman</h1>
 <h2>Web Devoloper</h2>
@@ -7,26 +7,25 @@
 
 <h3>Why Choose Me?</h3>
 
-	<p>✔ Many clients are happy after working with me.</p>
-	<p>✔ I will revise until your satisfaction</p>
-	<p>✔ Customer Satisfaction is my First Priority</p>
-
+	✔ Many clients are happy after working with me.
+	✔ I will revise until your satisfaction
+	✔ Customer Satisfaction is my First Priority
 
 <h3>My Service:</h3>
 
-	<p>✅ WordPress</p>
-	<p>✅ Website Fixing</p>
-	<p>✅ Woo-commerce Development / Customization</p>
-	<p>✅ Web Design</p>
-	<p>✅ JavaScript / Bootstrap / HTML5 / CSS3</p>
-	<p>✅ Photoshop</p>
-	<p>✅ Illustrator</p>
+	✅ WordPress 
+	✅ Website Fixing 
+	✅ Woo-commerce Development / Customization 
+	✅ Web Design 
+	✅ JavaScript / Bootstrap / HTML5 / CSS3</p>
+	✅ Photoshop
+	✅ Illustrator
 
 <h4>For Instant Inquiry:</h4>
 
 
-	<p>☑ Email: juelrahmanbd@gmail.com</p>
-	<p>☑ skype: live:.cid.5339897c56fa37c4</p>
+	☑ Email: juelrahmanbd@gmail.com
+	☑ skype: live:.cid.5339897c56fa37c4
 
 
 <p>Skills:  HTML / CSS / JS / PHP / Wordpress</p>
