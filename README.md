@@ -14,12 +14,9 @@
 <h3>My Service:</h3>
 
 	✅ WordPress 
-	✅ Website Fixing 
 	✅ Woo-commerce Development / Customization 
 	✅ Web Design 
-	✅ JavaScript / Bootstrap / HTML5 / CSS3</p>
-	✅ Photoshop
-	✅ Illustrator
+	✅ HTML / CSS / JavaScript / PHP
 
 <h4>For Instant Inquiry:</h4>
 
