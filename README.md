@@ -19,7 +19,7 @@
 <h4>For Instant Inquiry:</h4>
 
 
-	☑ Email: juelrahmanbd@gmail.com
+	☑ Email: juyelrahmanbd@gmail.com
 	☑ skype: live:.cid.5339897c56fa37c4
 
 
