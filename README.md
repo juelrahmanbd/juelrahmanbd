@@ -32,6 +32,3 @@
 
 	☑ Email: juyelrahmanbd@gmail.com
 	☑ skype: live:.cid.5339897c56fa37c4
-
-
-<p>Skills:  HTML / CSS / JS / PHP / Wordpress</p>
